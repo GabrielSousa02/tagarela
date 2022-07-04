@@ -39,7 +39,10 @@ This is a sample project, demonstrating the usage of [Django](https://www.django
          "PORT": "5432",
          }
     ```
-***If you want to connect to a different database, edit the `path/to/tagarela/settings.py` file***
+  
+## Important:
+- This project is **NOT** meant for production as it is!!! The Django `SECRET_KEY` is only a sample key for testing.
+- If you want to use different database params, edit the `path/to/tagarela/settings.py` file.
 
 ## Tagarela's Entity-Relationship Diagram
 

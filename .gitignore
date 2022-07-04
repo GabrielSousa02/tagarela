@@ -1,0 +1,23 @@
+# Django stuff
+*.log
+local_settings.py
+db.sqlite3
+
+# IDEs
+.idea/
+.vs-code/
+
+# Binaries
+.venv/
+venv/
+
+# Config files
+.pylintrc
+.python-version
+
+# Cache
+__pycache__
+*/__pycache__
+
+# Other files
+test.http

@@ -45,8 +45,6 @@ This is a sample project, demonstrating the usage of [Django](https://www.django
 
 ![](./tagarela-erd.png)
 
-### It can be found running on [Heroku](https://www.heroku.com/)
-
 ## It can be run locally by following these steps:
 
 - Activate your local environment:
@@ -87,6 +85,8 @@ source ./.venv/bin/activate
     - This option will perform a static code analysis using the `pylint` package.
   
 # Example of usage
+***It can be found running on [Heroku](https://www.heroku.com/)***
+
 - Base URL: `https://tagarela-test.herokuapp.com`
 - Endpoints for user/account usage:
   - Register a user: `/api/account/signup`
